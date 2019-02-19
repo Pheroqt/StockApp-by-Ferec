@@ -10,4 +10,4 @@ A stock application made with Swing API that allows you to add products from thr
 ### Animated Image of Application
 ![alt text][logo]
 
-[logo]: link "Stock App by Ferec"
+[logo]: https://github.com/ferecgithub/StockApp-by-Ferec/blob/master/images/StockAppGif.gif "Stock App by Ferec"
